@@ -1,4 +1,5 @@
 version: STSv1
-mode: enforce
+mode: testing
 mx: timatkinson-au.mail.protection.outlook.com
+mx: timatkinson-au.s-v1.mx.microsoft
 max_age: 604800
